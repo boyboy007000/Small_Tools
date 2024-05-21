@@ -1,4 +1,4 @@
-"## Giới thiệu chương trình đổi tên tệp theo tên thư mục
+## Giới thiệu chương trình đổi tên tệp theo tên thư mục
 
 **Mục đích:**
 
@@ -60,4 +60,3 @@ Sau khi chạy chương trình, các tệp sẽ được đổi tên như sau:
 **Kết luận:**
 
 Chương trình này cung cấp một giải pháp đơn giản để đổi tên tệp theo tên thư mục trong Python. Bạn có thể tùy chỉnh chương trình để phù hợp với nhu cầu cụ thể của bạn bằng cách thay đổi đường dẫn thư mục, điều kiện lọc tệp và hành động đổi tên/sao chép.
-"
